@@ -1,2 +1,2 @@
 # demo
-Unity demo project
+Unity demo project for panteon games, read readme.txt in folder
